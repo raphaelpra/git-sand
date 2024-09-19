@@ -1,0 +1,7 @@
+Hello 
+Bonjour la classe !
+
+Je suis sur main et j'avance sans l'experimentation
+
+Et je modifie aussi le fichier hello.txt
+Et si je rajoute une ligne il va me la mettre en vert
