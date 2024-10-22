@@ -1,5 +1,5 @@
-prof #1 Nom  :
-prof #1 Note :
+prof #1 Nom  : Chourave
+prof #1 Note : 22
 ---
 prof #2 Nom  :
 prof #2 Note :
