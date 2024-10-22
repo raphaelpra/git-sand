@@ -3,5 +3,8 @@ prof #1 Note : 22
 ---
 prof #2 Nom  : McGonagol
 prof #2 Note : 10
+--
+prof #3 Nom  : Dumbledore
+prof #3 Note : 18
 ---
-total        :
+total        : 18
