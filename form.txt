@@ -1,7 +1,7 @@
 prof #1 Nom  :
 prof #1 Note :
 ---
-prof #2 Nom  :
-prof #2 Note :
+prof #2 Nom  : Dumbledore
+prof #2 Note : 18
 ---
-total        :
+total        : 18
