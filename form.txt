@@ -7,7 +7,7 @@ prof #2 Note : 10
 prof #3 Nom  : Dumbledore
 prof #3 Note : 18
 ---
-prof #4 Nom  : Raphael P
-prof #4 Note : 15
+prof #4 Nom  : Raphael Prasquier
+prof #4 Note : 15.5
 ---
 total        : 16
